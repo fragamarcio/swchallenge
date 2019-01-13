@@ -10,20 +10,20 @@ No swchallenge/src/main/resources/application.properties configurar a conexão n
 
 
 ## Listar Planetas (GET)
-### localhost:8080/planets/
+    localhost:8080/planets/
 
 ## Buscar por id (GET)
-### localhost:8080/planets/{id}
+    localhost:8080/planets/{id}
 
 ## Buscar por nome (GET)
-### localhost:8080/planets/name/{name}
+    localhost:8080/planets/name/{name}
 
 ## Criar Planeta (POST)
-### localhost:8080/planets/
+    localhost:8080/planets/
  
 ## Alterar Planeta (PUT)
-### localhost:8080/planets/
+    localhost:8080/planets/
 
 ## Deletar Planeta (DELETE)
-### localhost:8080/planets/{id}
+    localhost:8080/planets/{id}
 
