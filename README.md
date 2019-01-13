@@ -3,7 +3,7 @@ Desafio Técnico B2W (Api Starwars).
 
 # Instalação
 
-No swchallenge/src/main/resources/application.properties configurar a conexão no MongoDB
+    No swchallenge/src/main/resources/application.properties configurar a conexão no MongoDB
 
 
 # API
