@@ -1,4 +1,4 @@
-# b2w-swchallange
+# b2w-swchallenge
 Desafio Técnico B2W (Api Starwars).
 
 # Instalação
